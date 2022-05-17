@@ -1,4 +1,3 @@
-# filemanagerassignment
 # How to run this code 
 1. Goto github link: https://github.com/engmadhab/filemanagerassignment
 2. Clone or download
